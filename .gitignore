@@ -1,0 +1,22 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+
+# Never commit the full source project (paid content)
+AIBehaviorToolkitHelper/
